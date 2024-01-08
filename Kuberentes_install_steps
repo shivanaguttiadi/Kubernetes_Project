@@ -1,0 +1,7 @@
+# Importent commands for kubernetes:
+update command  -  sudo apt-get update -y
+upgrade command - sudo apt-get upgrade -y
+curl install  - sudo apt-get install curl
+https transport  - sudo apt-get install apt-transport-https
+minicube command -  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+other command  -  sudo install minikube-linux-amd64 /usr/local/bin/minikube
