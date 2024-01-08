@@ -1,0 +1,6 @@
+# Full details about commands and explain:-
+
+Kubernetes version         - kubectl version
+details about K8's         - kubectl
+Get the nodes list in K8's - kubectl get nodes
+
